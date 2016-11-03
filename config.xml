@@ -17,7 +17,7 @@
     </author>
 
     <!-- Define the main entry-point to the application -->
-    <content src="www/index.html" />
+    <content src="index.html" />
 
     <!--
         If you do not want any permissions to be added to your app, add the
